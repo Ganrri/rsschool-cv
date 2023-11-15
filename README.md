@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for rsschool
+https://ganrri.github.io/rsschool-cv/
