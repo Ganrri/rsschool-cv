@@ -9,7 +9,8 @@
 **E-mail**: ganrri@gmail.com
 
 **Telegram**: https://t.me/TZyong
-[LinkedIn](https://www.linkedin.com/in/triet-duong-6452221b0/)
+
+**[LinkedIn](https://www.linkedin.com/in/triet-duong-6452221b0/)**
 
 
 ## About myself
