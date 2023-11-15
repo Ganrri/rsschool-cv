@@ -1,7 +1,7 @@
 # Duong Triet    
------
+
 ## IT Project Analyst
------
+
 
 ## Contact information
 **Phone**: +84 977 829321
@@ -9,14 +9,13 @@
 **Telegram**: https://t.me/TZyong
 [LinkedIn](https://www.linkedin.com/in/triet-duong-6452221b0/)
 
------
 
 ## About myself
 Half Vietnamese, half Russian. I lived all my life in Russia, now I'm moving to Vietnam Now I'm an IT Analyst, developing systems and business analytics. I quickly learn new things, strive for growth and development, not afraid to find original ways to solve problems. As part of my work, I use the following "stack": 
 - Database Design 
 - Designing transactional messages in JSON, XML format 
 - Preparation of documentation (Use case, Test Case, specification, etc.)
------
+
 ## Job Experience
 
 ### **IT Project Analyst**
@@ -51,7 +50,7 @@ Achievements:
 - Successfully maintained and implemented 5 chatbots for Seiko
 - Implemented a tender project for processing applications for the Ministry of Health and Social Protection of the Population of the Republic of Tajikistan 
 
------
+
 ## Education
 
 ### Saint-Petersburg Electrotechnical University "LETI"
@@ -62,7 +61,7 @@ Studied methods of introducing innovative technologies and methodologies into ex
 
 My graduation work was the implementation of flexible methodologies in the work of Pulkovo Airport in St. Petersburg (the second most important airport). It was a real project in which I participated as a manager. Thanks to this project, according to preliminary estimates, we were able to reduce annual costs by 500,000 USD
 
------
+
 ## Code Example
 ``` 
 function squares(x, n) {
@@ -77,7 +76,7 @@ function squares(x, n) {
   return arr
 } 
 ```
------
+
 ## Languages 
 * English - Upper-Intermediate
 * Russian - Native
